@@ -81,7 +81,7 @@ SCAN MODES:
 Trial Release
 -------------
 
-Ghoulsight is available as a FREE trial for everyone. Users can get up to 15 days of access and test their web applications for XSS vulnerabilities.
+Ghoulsight is available as a FREE trial for everyone. Users can get up to 7 days of access and test their web applications for XSS vulnerabilities.
 
 What's INCLUDED in the trial:
 
